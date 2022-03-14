@@ -13,4 +13,4 @@ Website Deploy :
 https://se-fe1-kelompok5.github.io/SnakeGame/
 
 Design Prototype : 
-https://www.figma.com/file/9XZo9sqnW8vHRRpAqCfEBg/Wireframing-in-Figma?node-id=116%3A327
+https://miro.com/app/board/uXjVOFkFuUs=/
